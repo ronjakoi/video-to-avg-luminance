@@ -1,6 +1,6 @@
 # Video to average luminance
 
-Ronja Koistinen <ronja@tuxera.com>
+Ronja Koistinen \<ronja@tuxera.com\>
 
 This script uses the OpenCV library to calculate the average
 [relative luminance](https://en.wikipedia.org/wiki/Relative_luminance)

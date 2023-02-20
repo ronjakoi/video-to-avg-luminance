@@ -5,7 +5,7 @@ import cv2 as cv
 import argparse
 
 parser = argparse.ArgumentParser(description='Calculates average relative luminance for every frame of a video')
-parser.add_argument('video', type=str, help='Path to image file')
+parser.add_argument('video', type=str, help='Path to video file')
 args = parser.parse_args()
 
 cap = cv.VideoCapture(args.video)
