@@ -1,8 +1,8 @@
-# Video to average luminance
+# Video to mean luminance
 
 Ronja Koistinen \<ronja@tuxera.com\>
 
-This script uses the OpenCV library to calculate the average
+This script uses the OpenCV library to calculate the mean
 [relative luminance](https://en.wikipedia.org/wiki/Relative_luminance)
 for each frame in a video file.
 
@@ -14,5 +14,5 @@ for each frame in a video file.
 ## Usage
 
 ```bash
-./vi2avgluminance.py myvideo.avi
+./vid2meanluminance.py myvideo.avi
 ```
